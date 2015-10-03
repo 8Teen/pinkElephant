@@ -72,7 +72,7 @@ body {
 
 .flag {
     position: relative;
-    background: rgb(255, 65, 69);
+    background: rgb(248, 89, 92);
     padding: 6px 10px;
     border-radius: 5px;
     font-weight: 600;
@@ -197,7 +197,7 @@ body {
     }
 
     .flag {
-        background:rgb(255, 65, 69);
+        background:#FF5151;
     }
 
     .direction-l .flag:before,
