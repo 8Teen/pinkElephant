@@ -163,9 +163,14 @@ body {
     line-height: 2.0em;
 }
 
+.pics{
+    position: relative;
+    margin: 2px 12px 0 12px;
+    z-index: 15;
+}
 
 .pics img{
-    width: 300px;
+    width: 100%;
 }
 
 .direction-r .desc {
